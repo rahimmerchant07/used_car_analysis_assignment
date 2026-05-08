@@ -44,3 +44,7 @@ The following regression models were used:
 - Luxury manufacturers tend to maintain higher resale prices
 - Newer vehicles are typically priced higher than older vehicles
 - Regularized regression models helped improve model stability and reduce overfitting
+
+
+# Notebook
+https://github.com/rahimmerchant07/used_car_analysis_assignment/blob/main/used_car_analysis_assignment.ipynb
